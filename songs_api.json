@@ -1,0 +1,214 @@
+{
+  "songs": [
+    {
+      "song_name": "Echoes of Time",
+      "artist_name": "Luna Rivera",
+      "duration": "3:45",
+      "cover_image": "https://example.com/images/echoes-of-time.jpg"
+    },
+    {
+      "song_name": "Neon Dreams",
+      "artist_name": "Kai Vortex",
+      "duration": "4:12",
+      "cover_image": "https://example.com/images/neon-dreams.jpg"
+    },
+    {
+      "song_name": "Golden Horizon",
+      "artist_name": "Ayla Storm",
+      "duration": "2:58",
+      "cover_image": "https://example.com/images/golden-horizon.jpg"
+    },
+    {
+      "song_name": "Midnight Pulse",
+      "artist_name": "Zayn Mirage",
+      "duration": "3:33",
+      "cover_image": "https://example.com/images/midnight-pulse.jpg"
+    },
+    {
+      "song_name": "Serenity Skies",
+      "artist_name": "Nova Fields",
+      "duration": "5:01",
+      "cover_image": "https://example.com/images/serenity-skies.jpg"
+    },
+    {
+      "song_name": "Crystal Beats",
+      "artist_name": "Echo Muse",
+      "duration": "3:21",
+      "cover_image": "https://example.com/images/crystal-beats.jpg"
+    },
+    {
+      "song_name": "Ocean Heart",
+      "artist_name": "Marina Vale",
+      "duration": "4:05",
+      "cover_image": "https://example.com/images/ocean-heart.jpg"
+    },
+    {
+      "song_name": "Starlight Glimmer",
+      "artist_name": "Violet Dawn",
+      "duration": "3:47",
+      "cover_image": "https://example.com/images/starlight-glimmer.jpg"
+    },
+    {
+      "song_name": "Digital Sunset",
+      "artist_name": "Neon Sage",
+      "duration": "2:55",
+      "cover_image": "https://example.com/images/digital-sunset.jpg"
+    },
+    {
+      "song_name": "Lost Frequencies",
+      "artist_name": "Echo Nova",
+      "duration": "4:44",
+      "cover_image": "https://example.com/images/lost-frequencies.jpg"
+    },
+    {
+      "song_name": "Celestial Drive",
+      "artist_name": "Solar Drift",
+      "duration": "3:39",
+      "cover_image": "https://example.com/images/celestial-drive.jpg"
+    },
+    {
+      "song_name": "Velvet Horizon",
+      "artist_name": "Amber Lane",
+      "duration": "4:11",
+      "cover_image": "https://example.com/images/velvet-horizon.jpg"
+    },
+    {
+      "song_name": "Parallel Hearts",
+      "artist_name": "Dual Flow",
+      "duration": "3:30",
+      "cover_image": "https://example.com/images/parallel-hearts.jpg"
+    },
+    {
+      "song_name": "Gravity Light",
+      "artist_name": "Zero Pulse",
+      "duration": "3:48",
+      "cover_image": "https://example.com/images/gravity-light.jpg"
+    },
+    {
+      "song_name": "Arctic Bloom",
+      "artist_name": "Frost Vale",
+      "duration": "4:20",
+      "cover_image": "https://example.com/images/arctic-bloom.jpg"
+    },
+    {
+      "song_name": "Lunar Echo",
+      "artist_name": "Zara Myth",
+      "duration": "3:15",
+      "cover_image": "https://example.com/images/lunar-echo.jpg"
+    },
+    {
+      "song_name": "Skybound Soul",
+      "artist_name": "Azure Wind",
+      "duration": "4:00",
+      "cover_image": "https://example.com/images/skybound-soul.jpg"
+    },
+    {
+      "song_name": "Dream Circuit",
+      "artist_name": "Pixel Aurora",
+      "duration": "3:55",
+      "cover_image": "https://example.com/images/dream-circuit.jpg"
+    },
+    {
+      "song_name": "Shadow Dancer",
+      "artist_name": "Lyra Mist",
+      "duration": "4:09",
+      "cover_image": "https://example.com/images/shadow-dancer.jpg"
+    },
+    {
+      "song_name": "Twilight Motion",
+      "artist_name": "Dawn Flux",
+      "duration": "2:47",
+      "cover_image": "https://example.com/images/twilight-motion.jpg"
+    },
+    {
+      "song_name": "Electric Mirage",
+      "artist_name": "Nova Glow",
+      "duration": "3:29",
+      "cover_image": "https://example.com/images/electric-mirage.jpg"
+    },
+    {
+      "song_name": "Waves of Silence",
+      "artist_name": "Ocean Bloom",
+      "duration": "4:13",
+      "cover_image": "https://example.com/images/waves-of-silence.jpg"
+    },
+    {
+      "song_name": "Crescent Rhythm",
+      "artist_name": "Moony Muse",
+      "duration": "3:40",
+      "cover_image": "https://example.com/images/crescent-rhythm.jpg"
+    },
+    {
+      "song_name": "Synthetic Soul",
+      "artist_name": "AI Harmony",
+      "duration": "3:58",
+      "cover_image": "https://example.com/images/synthetic-soul.jpg"
+    },
+    {
+      "song_name": "Flare Runner",
+      "artist_name": "Solar Flare",
+      "duration": "2:50",
+      "cover_image": "https://example.com/images/flare-runner.jpg"
+    },
+    {
+      "song_name": "Galactic Drift",
+      "artist_name": "AstroBeam",
+      "duration": "4:22",
+      "cover_image": "https://example.com/images/galactic-drift.jpg"
+    },
+    {
+      "song_name": "Nightfall Bloom",
+      "artist_name": "Dusk Petals",
+      "duration": "3:10",
+      "cover_image": "https://example.com/images/nightfall-bloom.jpg"
+    },
+    {
+      "song_name": "Pulsewave",
+      "artist_name": "Voltage Vibe",
+      "duration": "3:26",
+      "cover_image": "https://example.com/images/pulsewave.jpg"
+    },
+    {
+      "song_name": "Firelight",
+      "artist_name": "Ash Ember",
+      "duration": "4:06",
+      "cover_image": "https://example.com/images/firelight.jpg"
+    },
+    {
+      "song_name": "Aurora Fields",
+      "artist_name": "Stella Rain",
+      "duration": "3:32",
+      "cover_image": "https://example.com/images/aurora-fields.jpg"
+    },
+    {
+      "song_name": "Echo Core",
+      "artist_name": "Binary Beats",
+      "duration": "4:17",
+      "cover_image": "https://example.com/images/echo-core.jpg"
+    },
+    {
+      "song_name": "Rosewood Nights",
+      "artist_name": "Crimson Note",
+      "duration": "3:42",
+      "cover_image": "https://example.com/images/rosewood-nights.jpg"
+    },
+    {
+      "song_name": "Gravity Fade",
+      "artist_name": "Orbit Lane",
+      "duration": "3:59",
+      "cover_image": "https://example.com/images/gravity-fade.jpg"
+    },
+    {
+      "song_name": "Infinity Flow",
+      "artist_name": "Loop Mystic",
+      "duration": "4:31",
+      "cover_image": "https://example.com/images/infinity-flow.jpg"
+    },
+    {
+      "song_name": "Dawn Sequence",
+      "artist_name": "Morning Synth",
+      "duration": "3:34",
+      "cover_image": "https://example.com/images/dawn-sequence.jpg"
+    }
+  ]
+}
